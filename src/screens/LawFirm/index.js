@@ -1,0 +1,1 @@
+export { LawFirm } from "./LawFirm";

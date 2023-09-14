@@ -1,0 +1,1 @@
+export { IconsSocial } from "./IconsSocial";
